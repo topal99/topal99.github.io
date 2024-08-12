@@ -1,0 +1,93 @@
+.list-disc {
+    list-style-type: none;
+    padding: 0.5rem;
+
+}
+
+form {
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(242 243 245);
+}
+
+.form-input{
+    padding: 20px;
+    background-color: rgb(242 243 245);
+}
+
+aside{
+    width: 50%;
+    padding: 30px;
+    margin: 10px;
+}
+
+main{
+    display: flex;
+    text-align: justify;
+    font-family: system-ui;
+}
+
+div{
+    margin: auto;
+}
+
+.btn-download{
+    background-color: rgb(92 192 222);
+    color: white;
+    border: none;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.btn-reset{
+    background-color: rgb(255, 255, 255);
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.btn-konsultasi{
+    background-color: rgb(92 192 222);
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.penyakit{
+    list-style-type: none;
+    text-align: center;
+    margin:0%;
+    padding: 0%;
+}
+
+h4{
+    margin-bottom: 5px;
+}
+
+.p-result{
+    text-align: center;
+    font-size: 45px;
+    margin: 5px;
+}
+
+.hasil{
+    padding: 10px;
+}
+
+.input{
+    width: 98%;
+    height: 25px;
+}
+
+img{
+    width: 25%;
+}
+
+input[type="number"] {
+    border-radius: 5px;
+    border-width: thin;
+}
